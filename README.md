@@ -20,7 +20,7 @@ The Day 1 notebooks have the `pip` command for install MONAI, however this will 
 Place this at the top of the first cell to install MONAI the first time a colab notebook is run:
 
 ```bash
-%pip install -qU "monai[nibabel,ignite,torchvision]==0.7.0"
+%pip install -qU "monai[nibabel,ignite,torchvision]==0.6.0"
 ```
 
 #### 2. Enabling GPU Support
