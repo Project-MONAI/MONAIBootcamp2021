@@ -9,6 +9,9 @@ Notebooks can be accessed in Colab by using the links below:
 
 **Day 1 Notebooks:**
 
+* <a href="https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2021/blob/master/day1/1. Getting Started with MONAI.ipynb">1. Getting Started with MONAI.ipynb</a>
+* <a href="https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2021/blob/master/day1/2. MONAI Datasets and Caching.ipynb">2. MONAI Datasets and Caching.ipynb</a>
+* <a href="https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2021/blob/master/day1/3. End-To-End Workflow with MONAI.ipynb">3. End-To-End Workflow with MONAI.ipynb</a>
 
 **Day 3 Notebooks:**
 
