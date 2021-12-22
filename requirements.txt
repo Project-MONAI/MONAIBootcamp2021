@@ -1,0 +1,13 @@
+ipykernel==5.3.4
+ipython==7.18.1
+jupyter==1.0.0
+matplotlib==3.3.2
+monai==0.8.0
+nibabel==3.1.1
+notebook==6.1.4
+numpy==1.19.1
+pytorch-ignite==0.4.7
+scikit-image==0.17.2
+scikit-learn==.0.23.2
+torch==1.10.1 # include +cu113 for CUDA 11.3 with newer graphics cards
+torchvision==0.7.0
