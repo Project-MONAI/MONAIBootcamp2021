@@ -14,7 +14,7 @@ dependencies:
   - pillow=7.2.0
   - pip=20.2.3
   - python=3.8.5
-  - pytorch=1.6.0
+  - pytorch=1.10.1 # include +cu113 for CUDA 11.3 with newer graphics cards
   - scikit-image=0.17.2
   - scikit-learn=0.23.2
   - setuptools=49.6.0
@@ -22,4 +22,4 @@ dependencies:
   - pip:
     - monai==0.8.0
     - nibabel==3.1.1
-    - pytorch-ignite==0.3.0
+    - pytorch-ignite==0.4.7
